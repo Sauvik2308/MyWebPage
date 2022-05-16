@@ -1,0 +1,18 @@
+hr {
+    border-style: dotted none none;
+    border-width: 8px;
+    border-color: rgb(90, 109, 196);
+    /* height: 3px; */
+    width: 8%;
+}
+body{
+    background-color: rgb(159, 236, 217);
+}
+h1,h3{
+    /* text-shadow: 0 2px; */
+    color: rgb(0, 0, 0);
+}
+h3{
+    text-decoration: underline;
+    color: rgb(90, 109, 196);
+}
